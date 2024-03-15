@@ -48,11 +48,11 @@ jobs:
         # REPLACE: Zimperium Client Environment Name
         client_env: mapsfreemium
         # REPLACE: Zimperium Client ID
-        client_id: d0f63eq7Q2iVuq5jEHkp9A
+        client_id: AvO4NkscQ9S7WTFLSsOaYg
         # REPLACE: Zimperium Client Secret
         client_secret: ${{ secrets.ZSCAN_CLIENT_SECRET }}
         # REPLACE: The path to an .ipa or .apk
-        app_file: ./androgoat.apk
+        app_file: ./AndroGoat.apk
 
     - name: Upload SARIF file
       uses: github/codeql-action/upload-sarif@v2
