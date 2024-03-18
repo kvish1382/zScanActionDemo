@@ -2,7 +2,7 @@
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
-#
+# 
 # The zimperium-zscan GitHub action scans your mobile app binary (iOS or Android)
 # and identifies security, privacy, and compliance-related vulnerabilities. ​
 #
